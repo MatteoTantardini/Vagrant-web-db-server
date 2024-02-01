@@ -1,1 +1,0 @@
-{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"E:/Modulo 340/Vagrant-web-db-server/site","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"E:/Modulo 340/Vagrant-web-db-server","disabled":false,"__vagrantfile":true}}}
